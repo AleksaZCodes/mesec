@@ -1,0 +1,27 @@
+local sintaksa = {
+	["inace ako"] = "elseif",
+	inace = "else",
+	i = "and",
+	izbij = "break",
+	izadji = "break",
+	napusti = "break",
+	uradi = "do",
+	kraj = "end",
+	netacno = "false",
+	tacno = "true",
+	za = "for",
+	funkcija = "function",
+	ako = "if",
+	u = "in",
+	lokalna = "local",
+	nista = "nil",
+	nije = "not",
+	ili = "or",
+	ponavljaj = "repeat",
+	vrati = "return",
+	onda = "then",
+	dok = "while",
+	["do"] = "until",
+}
+
+return sintaksa
